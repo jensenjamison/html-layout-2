@@ -1,0 +1,156 @@
+.body {
+    background-color: #0C27CC;
+    margin: 0;
+    background-image: url(https://s3.amazonaws.com/designco-web-assets/uploads/2017/07/Podcast-large_2x-1450x1112.png); 
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    width: 100vw;
+    height: 8vh;
+    margin-top: 100px;
+    align-items: center;
+
+}
+
+.start-nav {
+    font-size: 20px;
+    color: white;
+    font-family: Rubik, "Helvetica Neue", Helvetica, Helvetica, Arial, sans-serif;
+
+}
+
+.middle-nav {
+    font-family: Rubik, "Helvetica Neue", Helvetica, Helvetica, Arial, sans-serif;
+    color: white;
+    font-size: 14px;
+    width: 30vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center
+    
+}
+
+.button {
+    font-family: Rubik, "Helvetica Neue", Helvetica, Helvetica, Arial, sans-serif;
+    background-color: #0C27CC;
+    border-radius: 100px;
+    border: 1px solid white;
+    color: white;
+    padding: 10px 20px;
+
+}
+
+.center {
+    margin-top: 200px;
+    width: 40vw;
+    height: 20vh;
+}
+
+.cen {
+    width: 100vw;
+    height: 10vh;
+}
+
+.title {
+    font-family: Rubik, "Helvetica Neue", Helvetica, Helvetica, Arial, sans-serif;
+    color: white;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+
+}   
+.p {
+    width: 30vw;
+    height: 10vh;
+    text-align: center;
+    margin-left: 87%;
+    display: inline-block;
+}
+
+.par {
+    font-family: Rubik, "Helvetica Neue", Helvetica, Helvetica, Arial, sans-serif;
+    color: white;
+    line-height: 4vh;
+}
+
+.bottom {
+    margin-top: 10vh;
+    width: 100vw;
+    height: 40vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.presents {
+    width: 200px;
+    height: 10px;
+    transform: rotate(-90deg);
+    color: white;
+    font-family: Rubik, "Helvetica Neue", Helvetica, Helvetica, Arial, sans-serif;
+    margin-top: 100px;
+}
+
+.start {
+
+}
+
+.exploring {
+    padding: 20px 45px;
+    border-radius: 100px;
+    background-color: white;
+    border: 1px;
+    text-align: center;
+    font-size: 13px;
+    margin-right: 100px;
+    color: #0C27CC;
+    font-family: Rubik, "Helvetica Neue", Helvetica, Helvetica, Arial, sans-serif;
+
+}
+
+.scroll {
+    color:white;
+    font-family: Rubik, "Helvetica Neue", Helvetica, Helvetica, Arial, sans-serif;
+    margin-left: 75px;
+    margin-top: 90px;
+}
+
+.buttons {
+    transform: rotate(-90deg);
+    margin-right: -240px;
+    margin-top: -100px
+}
+
+.twitter {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: transparent;
+    border: solid white;
+    
+}
+
+.facebook {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: transparent;
+    border: solid white;
+}
+
+.in {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: transparent;
+    border: solid white;
+}
+
+.share {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: transparent;
+    border: solid white;
+}
